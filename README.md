@@ -24,3 +24,9 @@
 
 ### Projects
 * FirstJS:  [morning](https://github.com/xternbootcamp16/firstjs) | [afternoon](https://github.com/xternbootcamp16/firstjs-afternoon)
+
+### Links
+
+* [Foundation](http://foundation.zurb.com/) - a front-end framework
+* [CSS Diner](http://flukeout.github.io/) - a game for practicing CSS selector syntax
+* [CSS Selector Game](http://toolness.github.io/css-selector-game/) - another tool for practicing selector syntax
