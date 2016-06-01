@@ -82,5 +82,5 @@ Create a class roster.
 **Super Mega Bonus Credit**
 * Add a _delete_ link to every list item that removes the name from the list when clicked.
 
-** Super Mega Bonus Credit Hyper Fighting
+**Super Mega Bonus Credit Hyper Fighting**
 * Add a _promote_ link to every list item that draws a border around that item when clicked.
