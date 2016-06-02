@@ -4,4 +4,4 @@ This is your day-by-day guide to what we've covered in class: the topics, the pr
 
 > If you're stuck, or if you want to learn all the gory details of a particular topic, start with [MDN (Mozilla Developer Network)](https://developer.mozilla.org/en-US/docs/Web/JavaScript), which is effectively the official documentation for JavaScript.
 
-## [Start With Day 1](/wiki/Week-1-Day-01.md)
+## [Start With Day 1](https://github.com/xternbootcamp16/resources/wiki/Week-1-Day-01)
